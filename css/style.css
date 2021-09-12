@@ -160,7 +160,6 @@ button:focus {
   background-image: url(../imgs/1.jpg);
   background-size: cover;
   position: relative;
-  transition: background-image 2s;
 }
 .landing-page .overlay {
   background-color: rgba(0, 0, 0, 0.5);
